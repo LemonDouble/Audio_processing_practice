@@ -4,7 +4,7 @@
 
 ### 1. 해당 폴더의 파일 목록은 다음과 같습니다.
 
-```python
+```text
 1. FFT.ipynb : 고속 푸리에 변환 (Fast Fourier Transform)을 Python에서 어떻게 사용하는지, 어떤 변환을 수행하는지 공부하기 위한 파일입니다.
 https://techreviewtips.blogspot.com/2017/11/05-02-fft.html
 의 코드를 참고하였습니다.
